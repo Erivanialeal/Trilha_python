@@ -1,2 +1,5 @@
 # Trilha_python
-Trilha para evoluir como DEV BACKEND
+📌 **Objetivo**: Revisar e fortalecer os fundamentos do Python e introdução ao backend.
+
+# Primeiro Módulo:
+ 
